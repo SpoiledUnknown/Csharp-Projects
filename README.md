@@ -97,6 +97,21 @@ A fully featured multiplayer implementation of the timeless Tic-Tac-Toe game.
 
 ---
 
+## 🎨 OpenTK Learning
+
+### About
+
+a simple learning project where I was following [this](https://opentk.net/learn/index.html)
+
+
+### Technologies
+
+* C#
+* OpenGL
+* OpenTK Pre-Release v5.0.0
+
+---
+
 ## 🎨 2D Renderer
 
 > Previously known as **BasicTK – 2D Renderer**
